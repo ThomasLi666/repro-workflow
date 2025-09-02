@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite it as below."
+title: "Reproducible Workflow Template"
+authors:
+  - family-names: Lee
+    given-names: Thomas
+    affiliation: Lund University
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+date-released: 2025-09-02
+license: MIT
+version: "1.0.0"
